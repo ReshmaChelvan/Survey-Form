@@ -1,0 +1,28 @@
+body {
+    font-family: "poppins", sans-serif;
+}
+
+.text-name { 
+    font-size: 1rem;
+    font-weight: 600;
+} 
+
+.label-form {
+    font-family: "poppins", sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+input::placeholder { 
+    font-family: "poppins", sans-serif;
+    color: grey;
+}
+
+
+.font-para {
+    font-size: 0.8rem;
+}
+
+.box-width {
+    width: 282px;
+}
